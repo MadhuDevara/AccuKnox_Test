@@ -43,7 +43,8 @@ It involves monitoring the integration between the frontend and backend services
    6. Access the Application:
       Open your web browser and navigate to `http://localhost:8081/`.
 
-   ** Verification **
-   1. Ensure the correct versions of selenium with java are installed. The Java code to trigger browser and to validate the text on the screen was updated in the AccuKnox_AutomationTest.java file
+
+**Verification**
+   1. Ensure the correct versions of selenium with java are installed. The Java code to trigger browser and to validate the text on the screen was updated in the FrontendBackendIntegration.java file
 
       
